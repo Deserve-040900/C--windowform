@@ -1,0 +1,13 @@
+E:\visual studio - C#\New folder\ProjectDemo\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.exe
+E:\visual studio - C#\New folder\ProjectDemo\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.deps.json
+E:\visual studio - C#\New folder\ProjectDemo\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.runtimeconfig.json
+E:\visual studio - C#\New folder\ProjectDemo\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.runtimeconfig.dev.json
+E:\visual studio - C#\New folder\ProjectDemo\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.dll
+E:\visual studio - C#\New folder\ProjectDemo\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.pdb
+E:\visual studio - C#\New folder\ProjectDemo\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.csprojAssemblyReference.cache
+E:\visual studio - C#\New folder\ProjectDemo\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.AssemblyInfoInputs.cache
+E:\visual studio - C#\New folder\ProjectDemo\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.AssemblyInfo.cs
+E:\visual studio - C#\New folder\ProjectDemo\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.csproj.CoreCompileInputs.cache
+E:\visual studio - C#\New folder\ProjectDemo\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.dll
+E:\visual studio - C#\New folder\ProjectDemo\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.pdb
+E:\visual studio - C#\New folder\ProjectDemo\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.genruntimeconfig.cache
