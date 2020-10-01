@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\visual studio - C#\\New folder\\ProjectDemo\\consoleApp\\consoleApp.csproj": {}
+    "C:\\Users\\TH ACER\\source\\visual studio - C#\\ProjectDemo\\consoleApp\\consoleApp.csproj": {}
   },
   "projects": {
-    "E:\\visual studio - C#\\New folder\\ProjectDemo\\consoleApp\\consoleApp.csproj": {
+    "C:\\Users\\TH ACER\\source\\visual studio - C#\\ProjectDemo\\consoleApp\\consoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\visual studio - C#\\New folder\\ProjectDemo\\consoleApp\\consoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\TH ACER\\source\\visual studio - C#\\ProjectDemo\\consoleApp\\consoleApp.csproj",
         "projectName": "consoleApp",
-        "projectPath": "E:\\visual studio - C#\\New folder\\ProjectDemo\\consoleApp\\consoleApp.csproj",
+        "projectPath": "C:\\Users\\TH ACER\\source\\visual studio - C#\\ProjectDemo\\consoleApp\\consoleApp.csproj",
         "packagesPath": "C:\\Users\\TH ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\visual studio - C#\\New folder\\ProjectDemo\\consoleApp\\obj\\",
+        "outputPath": "C:\\Users\\TH ACER\\source\\visual studio - C#\\ProjectDemo\\consoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TH ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",

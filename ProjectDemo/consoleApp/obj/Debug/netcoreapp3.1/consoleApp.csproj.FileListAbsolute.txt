@@ -11,3 +11,16 @@ E:\visual studio - C#\New folder\ProjectDemo\consoleApp\obj\Debug\netcoreapp3.1\
 E:\visual studio - C#\New folder\ProjectDemo\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.dll
 E:\visual studio - C#\New folder\ProjectDemo\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.pdb
 E:\visual studio - C#\New folder\ProjectDemo\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.genruntimeconfig.cache
+C:\Users\TH ACER\source\visual studio - C#\ProjectDemo\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.exe
+C:\Users\TH ACER\source\visual studio - C#\ProjectDemo\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.deps.json
+C:\Users\TH ACER\source\visual studio - C#\ProjectDemo\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.runtimeconfig.json
+C:\Users\TH ACER\source\visual studio - C#\ProjectDemo\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.runtimeconfig.dev.json
+C:\Users\TH ACER\source\visual studio - C#\ProjectDemo\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.dll
+C:\Users\TH ACER\source\visual studio - C#\ProjectDemo\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.pdb
+C:\Users\TH ACER\source\visual studio - C#\ProjectDemo\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.csprojAssemblyReference.cache
+C:\Users\TH ACER\source\visual studio - C#\ProjectDemo\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.AssemblyInfoInputs.cache
+C:\Users\TH ACER\source\visual studio - C#\ProjectDemo\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.AssemblyInfo.cs
+C:\Users\TH ACER\source\visual studio - C#\ProjectDemo\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.csproj.CoreCompileInputs.cache
+C:\Users\TH ACER\source\visual studio - C#\ProjectDemo\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.dll
+C:\Users\TH ACER\source\visual studio - C#\ProjectDemo\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.pdb
+C:\Users\TH ACER\source\visual studio - C#\ProjectDemo\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.genruntimeconfig.cache
