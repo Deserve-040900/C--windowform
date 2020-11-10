@@ -15,12 +15,12 @@ namespace BingoQuiz
         public Menu()
         {
             InitializeComponent(); 
-            Form2 form2 = new Form2();
-            form2.TopLevel = false;
-            this.panelChildForm.Controls.Add(form2);
-            form2.Dock = DockStyle.Fill;
-            form2.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            form2.Show();
+            //Form2 form2 = new Form2();
+            //form2.TopLevel = false;
+            //this.panelChildForm.Controls.Add(form2);
+            //form2.Dock = DockStyle.Fill;
+            //form2.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            //form2.Show();
             Customize();
         }
         private void Customize()
@@ -58,6 +58,7 @@ namespace BingoQuiz
         #region MediaSubmenu
         private void btn1_Click(object sender, EventArgs e)
         {
+            openChildForm(new Form2());
             HideSubmenu();
         }
 
@@ -116,8 +117,16 @@ namespace BingoQuiz
         {
             if(ActiveForm != null)
             {
-
+                ActiveForm.Close();
             }
+            ActiveForm = childform;
+            childform.TopLevel = false;
+            childform.FormBorderStyle = FormBorderStyle.None;
+            childform.Dock = DockStyle.Fill;
+            panelChildForm.Controls.Add(childform);
+            panelChildForm.Tag = childform;
+            childform.BringToFront();
+            childform.Show();
         }
     }
 }
