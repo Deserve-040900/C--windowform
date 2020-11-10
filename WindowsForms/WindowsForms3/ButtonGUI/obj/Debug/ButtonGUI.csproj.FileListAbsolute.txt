@@ -1,0 +1,10 @@
+C:\Users\TH ACER\source\visual studio - C#\WindowsForms\WindowsForms3\WindowsFormsGUI\ButtonGUI\bin\Debug\ButtonGUI.exe.config
+C:\Users\TH ACER\source\visual studio - C#\WindowsForms\WindowsForms3\WindowsFormsGUI\ButtonGUI\bin\Debug\ButtonGUI.exe
+C:\Users\TH ACER\source\visual studio - C#\WindowsForms\WindowsForms3\WindowsFormsGUI\ButtonGUI\bin\Debug\ButtonGUI.pdb
+C:\Users\TH ACER\source\visual studio - C#\WindowsForms\WindowsForms3\WindowsFormsGUI\ButtonGUI\obj\Debug\ButtonGUI.csprojAssemblyReference.cache
+C:\Users\TH ACER\source\visual studio - C#\WindowsForms\WindowsForms3\WindowsFormsGUI\ButtonGUI\obj\Debug\ButtonGUI.Form1.resources
+C:\Users\TH ACER\source\visual studio - C#\WindowsForms\WindowsForms3\WindowsFormsGUI\ButtonGUI\obj\Debug\ButtonGUI.Properties.Resources.resources
+C:\Users\TH ACER\source\visual studio - C#\WindowsForms\WindowsForms3\WindowsFormsGUI\ButtonGUI\obj\Debug\ButtonGUI.csproj.GenerateResource.cache
+C:\Users\TH ACER\source\visual studio - C#\WindowsForms\WindowsForms3\WindowsFormsGUI\ButtonGUI\obj\Debug\ButtonGUI.csproj.CoreCompileInputs.cache
+C:\Users\TH ACER\source\visual studio - C#\WindowsForms\WindowsForms3\WindowsFormsGUI\ButtonGUI\obj\Debug\ButtonGUI.exe
+C:\Users\TH ACER\source\visual studio - C#\WindowsForms\WindowsForms3\WindowsFormsGUI\ButtonGUI\obj\Debug\ButtonGUI.pdb

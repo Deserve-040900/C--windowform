@@ -1,0 +1,10 @@
+C:\Users\TH ACER\source\visual studio - C#\WindowsForms\WindowsForms4\WindowsFormsGUI\TextboxGUI\bin\Debug\TextboxGUI.exe.config
+C:\Users\TH ACER\source\visual studio - C#\WindowsForms\WindowsForms4\WindowsFormsGUI\TextboxGUI\bin\Debug\TextboxGUI.exe
+C:\Users\TH ACER\source\visual studio - C#\WindowsForms\WindowsForms4\WindowsFormsGUI\TextboxGUI\bin\Debug\TextboxGUI.pdb
+C:\Users\TH ACER\source\visual studio - C#\WindowsForms\WindowsForms4\WindowsFormsGUI\TextboxGUI\obj\Debug\TextboxGUI.csprojAssemblyReference.cache
+C:\Users\TH ACER\source\visual studio - C#\WindowsForms\WindowsForms4\WindowsFormsGUI\TextboxGUI\obj\Debug\TextboxGUI.Form1.resources
+C:\Users\TH ACER\source\visual studio - C#\WindowsForms\WindowsForms4\WindowsFormsGUI\TextboxGUI\obj\Debug\TextboxGUI.Properties.Resources.resources
+C:\Users\TH ACER\source\visual studio - C#\WindowsForms\WindowsForms4\WindowsFormsGUI\TextboxGUI\obj\Debug\TextboxGUI.csproj.GenerateResource.cache
+C:\Users\TH ACER\source\visual studio - C#\WindowsForms\WindowsForms4\WindowsFormsGUI\TextboxGUI\obj\Debug\TextboxGUI.csproj.CoreCompileInputs.cache
+C:\Users\TH ACER\source\visual studio - C#\WindowsForms\WindowsForms4\WindowsFormsGUI\TextboxGUI\obj\Debug\TextboxGUI.exe
+C:\Users\TH ACER\source\visual studio - C#\WindowsForms\WindowsForms4\WindowsFormsGUI\TextboxGUI\obj\Debug\TextboxGUI.pdb

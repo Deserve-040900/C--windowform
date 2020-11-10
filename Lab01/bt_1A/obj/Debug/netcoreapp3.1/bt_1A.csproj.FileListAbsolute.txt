@@ -1,0 +1,13 @@
+C:\Users\TH ACER\source\visual studio - C#\Lab01\bt_1A\bin\Debug\netcoreapp3.1\bt_1A.exe
+C:\Users\TH ACER\source\visual studio - C#\Lab01\bt_1A\bin\Debug\netcoreapp3.1\bt_1A.deps.json
+C:\Users\TH ACER\source\visual studio - C#\Lab01\bt_1A\bin\Debug\netcoreapp3.1\bt_1A.runtimeconfig.json
+C:\Users\TH ACER\source\visual studio - C#\Lab01\bt_1A\bin\Debug\netcoreapp3.1\bt_1A.runtimeconfig.dev.json
+C:\Users\TH ACER\source\visual studio - C#\Lab01\bt_1A\bin\Debug\netcoreapp3.1\bt_1A.dll
+C:\Users\TH ACER\source\visual studio - C#\Lab01\bt_1A\bin\Debug\netcoreapp3.1\bt_1A.pdb
+C:\Users\TH ACER\source\visual studio - C#\Lab01\bt_1A\obj\Debug\netcoreapp3.1\bt_1A.csprojAssemblyReference.cache
+C:\Users\TH ACER\source\visual studio - C#\Lab01\bt_1A\obj\Debug\netcoreapp3.1\bt_1A.AssemblyInfoInputs.cache
+C:\Users\TH ACER\source\visual studio - C#\Lab01\bt_1A\obj\Debug\netcoreapp3.1\bt_1A.AssemblyInfo.cs
+C:\Users\TH ACER\source\visual studio - C#\Lab01\bt_1A\obj\Debug\netcoreapp3.1\bt_1A.csproj.CoreCompileInputs.cache
+C:\Users\TH ACER\source\visual studio - C#\Lab01\bt_1A\obj\Debug\netcoreapp3.1\bt_1A.dll
+C:\Users\TH ACER\source\visual studio - C#\Lab01\bt_1A\obj\Debug\netcoreapp3.1\bt_1A.pdb
+C:\Users\TH ACER\source\visual studio - C#\Lab01\bt_1A\obj\Debug\netcoreapp3.1\bt_1A.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\TH ACER\source\visual studio - C#\DoAn\BingoQuiz\bin\Debug\BingoQuiz.exe.config
+C:\Users\TH ACER\source\visual studio - C#\DoAn\BingoQuiz\bin\Debug\BingoQuiz.exe
+C:\Users\TH ACER\source\visual studio - C#\DoAn\BingoQuiz\bin\Debug\BingoQuiz.pdb
+C:\Users\TH ACER\source\visual studio - C#\DoAn\BingoQuiz\obj\Debug\BingoQuiz.csprojAssemblyReference.cache
+C:\Users\TH ACER\source\visual studio - C#\DoAn\BingoQuiz\obj\Debug\BingoQuiz.Menu.resources
+C:\Users\TH ACER\source\visual studio - C#\DoAn\BingoQuiz\obj\Debug\BingoQuiz.Properties.Resources.resources
+C:\Users\TH ACER\source\visual studio - C#\DoAn\BingoQuiz\obj\Debug\BingoQuiz.csproj.GenerateResource.cache
+C:\Users\TH ACER\source\visual studio - C#\DoAn\BingoQuiz\obj\Debug\BingoQuiz.csproj.CoreCompileInputs.cache
+C:\Users\TH ACER\source\visual studio - C#\DoAn\BingoQuiz\obj\Debug\BingoQuiz.exe
+C:\Users\TH ACER\source\visual studio - C#\DoAn\BingoQuiz\obj\Debug\BingoQuiz.pdb
+C:\Users\TH ACER\source\visual studio - C#\DoAn\BingoQuiz\obj\Debug\BingoQuiz.Form2.resources
