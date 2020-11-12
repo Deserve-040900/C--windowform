@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.dataGridView = new System.Windows.Forms.DataGridView();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -43,9 +43,9 @@
             this.txb1 = new System.Windows.Forms.TextBox();
             this.txb2 = new System.Windows.Forms.TextBox();
             this.txb3 = new System.Windows.Forms.TextBox();
-            this.radiobtn1 = new System.Windows.Forms.RadioButton();
-            this.radiobtn2 = new System.Windows.Forms.RadioButton();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.radiobtnNam = new System.Windows.Forms.RadioButton();
+            this.radiobtnNu = new System.Windows.Forms.RadioButton();
+            this.comboBoxKhoa = new System.Windows.Forms.ComboBox();
             this.btn_insert = new System.Windows.Forms.Button();
             this.btn_delete = new System.Windows.Forms.Button();
             this.label6 = new System.Windows.Forms.Label();
@@ -53,26 +53,26 @@
             this.txb_female = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView)).BeginInit();
             this.SuspendLayout();
             // 
-            // dataGridView1
+            // dataGridView
             // 
-            this.dataGridView1.AllowUserToOrderColumns = true;
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.dataGridView.AllowUserToOrderColumns = true;
+            this.dataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Column1,
             this.Column2,
             this.Column3,
             this.Column4,
             this.Column5});
-            this.dataGridView1.Cursor = System.Windows.Forms.Cursors.Help;
-            this.dataGridView1.Location = new System.Drawing.Point(451, 126);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.RowHeadersWidth = 51;
-            this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(678, 363);
-            this.dataGridView1.TabIndex = 4;
+            this.dataGridView.Cursor = System.Windows.Forms.Cursors.Help;
+            this.dataGridView.Location = new System.Drawing.Point(451, 126);
+            this.dataGridView.Name = "dataGridView";
+            this.dataGridView.RowHeadersWidth = 51;
+            this.dataGridView.RowTemplate.Height = 24;
+            this.dataGridView.Size = new System.Drawing.Size(678, 363);
+            this.dataGridView.TabIndex = 4;
             // 
             // Column1
             // 
@@ -194,40 +194,44 @@
             this.txb3.Size = new System.Drawing.Size(126, 30);
             this.txb3.TabIndex = 2;
             // 
-            // radiobtn1
+            // radiobtnNam
             // 
-            this.radiobtn1.AutoSize = true;
-            this.radiobtn1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radiobtn1.Location = new System.Drawing.Point(170, 299);
-            this.radiobtn1.Name = "radiobtn1";
-            this.radiobtn1.Size = new System.Drawing.Size(65, 24);
-            this.radiobtn1.TabIndex = 5;
-            this.radiobtn1.TabStop = true;
-            this.radiobtn1.Text = "Nam";
-            this.radiobtn1.UseVisualStyleBackColor = true;
+            this.radiobtnNam.AutoSize = true;
+            this.radiobtnNam.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.radiobtnNam.Location = new System.Drawing.Point(170, 299);
+            this.radiobtnNam.Name = "radiobtnNam";
+            this.radiobtnNam.Size = new System.Drawing.Size(65, 24);
+            this.radiobtnNam.TabIndex = 5;
+            this.radiobtnNam.TabStop = true;
+            this.radiobtnNam.Text = "Nam";
+            this.radiobtnNam.UseVisualStyleBackColor = true;
             // 
-            // radiobtn2
+            // radiobtnNu
             // 
-            this.radiobtn2.AutoSize = true;
-            this.radiobtn2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radiobtn2.Location = new System.Drawing.Point(265, 299);
-            this.radiobtn2.Name = "radiobtn2";
-            this.radiobtn2.Size = new System.Drawing.Size(51, 24);
-            this.radiobtn2.TabIndex = 5;
-            this.radiobtn2.TabStop = true;
-            this.radiobtn2.Text = "Nữ";
-            this.radiobtn2.UseVisualStyleBackColor = true;
+            this.radiobtnNu.AutoSize = true;
+            this.radiobtnNu.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.radiobtnNu.Location = new System.Drawing.Point(265, 299);
+            this.radiobtnNu.Name = "radiobtnNu";
+            this.radiobtnNu.Size = new System.Drawing.Size(51, 24);
+            this.radiobtnNu.TabIndex = 5;
+            this.radiobtnNu.TabStop = true;
+            this.radiobtnNu.Text = "Nữ";
+            this.radiobtnNu.UseVisualStyleBackColor = true;
             // 
-            // comboBox1
+            // comboBoxKhoa
             // 
-            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(170, 413);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(226, 28);
-            this.comboBox1.TabIndex = 3;
-            this.comboBox1.Click += new System.EventHandler(this.comboBox1_Click);
+            this.comboBoxKhoa.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboBoxKhoa.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.comboBoxKhoa.FormattingEnabled = true;
+            this.comboBoxKhoa.Items.AddRange(new object[] {
+            "Quản trị kinh doanh",
+            "Công nghệ thông tin",
+            "Ngôn ngữ anh\""});
+            this.comboBoxKhoa.Location = new System.Drawing.Point(170, 413);
+            this.comboBoxKhoa.Name = "comboBoxKhoa";
+            this.comboBoxKhoa.Size = new System.Drawing.Size(226, 28);
+            this.comboBoxKhoa.TabIndex = 3;
+            this.comboBoxKhoa.Click += new System.EventHandler(this.comboBox1_Click);
             // 
             // btn_insert
             // 
@@ -238,6 +242,7 @@
             this.btn_insert.TabIndex = 7;
             this.btn_insert.Text = "Thêm/Sửa";
             this.btn_insert.UseVisualStyleBackColor = true;
+            this.btn_insert.Click += new System.EventHandler(this.btn_insert_Click);
             // 
             // btn_delete
             // 
@@ -248,6 +253,7 @@
             this.btn_delete.TabIndex = 7;
             this.btn_delete.Text = "Xóa";
             this.btn_delete.UseVisualStyleBackColor = true;
+            this.btn_delete.Click += new System.EventHandler(this.btn_delete_Click);
             // 
             // label6
             // 
@@ -309,9 +315,9 @@
             this.Controls.Add(this.label6);
             this.Controls.Add(this.btn_delete);
             this.Controls.Add(this.btn_insert);
-            this.Controls.Add(this.comboBox1);
-            this.Controls.Add(this.radiobtn2);
-            this.Controls.Add(this.radiobtn1);
+            this.Controls.Add(this.comboBoxKhoa);
+            this.Controls.Add(this.radiobtnNu);
+            this.Controls.Add(this.radiobtnNam);
             this.Controls.Add(this.txb3);
             this.Controls.Add(this.txb2);
             this.Controls.Add(this.txb1);
@@ -321,17 +327,18 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lb);
-            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.dataGridView);
             this.Name = "Form1";
             this.Text = "Thông tin sinh viên";
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            this.Load += new System.EventHandler(this.Form1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         #endregion
-        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView dataGridView;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
@@ -346,9 +353,9 @@
         private System.Windows.Forms.TextBox txb1;
         private System.Windows.Forms.TextBox txb2;
         private System.Windows.Forms.TextBox txb3;
-        private System.Windows.Forms.RadioButton radiobtn1;
-        private System.Windows.Forms.RadioButton radiobtn2;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.RadioButton radiobtnNam;
+        private System.Windows.Forms.RadioButton radiobtnNu;
+        private System.Windows.Forms.ComboBox comboBoxKhoa;
         private System.Windows.Forms.Button btn_insert;
         private System.Windows.Forms.Button btn_delete;
         private System.Windows.Forms.Label label6;
