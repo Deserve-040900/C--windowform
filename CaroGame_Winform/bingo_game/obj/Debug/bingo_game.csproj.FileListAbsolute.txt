@@ -1,0 +1,10 @@
+C:\Users\TH ACER\source\visual studio - C#\CaroGame_Winform\bingo_game\bin\Debug\bingo_game.exe.config
+C:\Users\TH ACER\source\visual studio - C#\CaroGame_Winform\bingo_game\bin\Debug\bingo_game.exe
+C:\Users\TH ACER\source\visual studio - C#\CaroGame_Winform\bingo_game\bin\Debug\bingo_game.pdb
+C:\Users\TH ACER\source\visual studio - C#\CaroGame_Winform\bingo_game\obj\Debug\bingo_game.csprojAssemblyReference.cache
+C:\Users\TH ACER\source\visual studio - C#\CaroGame_Winform\bingo_game\obj\Debug\bingo_game.Form.resources
+C:\Users\TH ACER\source\visual studio - C#\CaroGame_Winform\bingo_game\obj\Debug\bingo_game.Properties.Resources.resources
+C:\Users\TH ACER\source\visual studio - C#\CaroGame_Winform\bingo_game\obj\Debug\bingo_game.csproj.GenerateResource.cache
+C:\Users\TH ACER\source\visual studio - C#\CaroGame_Winform\bingo_game\obj\Debug\bingo_game.csproj.CoreCompileInputs.cache
+C:\Users\TH ACER\source\visual studio - C#\CaroGame_Winform\bingo_game\obj\Debug\bingo_game.exe
+C:\Users\TH ACER\source\visual studio - C#\CaroGame_Winform\bingo_game\obj\Debug\bingo_game.pdb

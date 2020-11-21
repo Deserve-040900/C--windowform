@@ -1,0 +1,13 @@
+C:\Users\TH ACER\source\visual studio - C#\bingoquiz\demo\bin\Debug\demo.exe.config
+C:\Users\TH ACER\source\visual studio - C#\bingoquiz\demo\bin\Debug\demo.exe
+C:\Users\TH ACER\source\visual studio - C#\bingoquiz\demo\bin\Debug\demo.pdb
+C:\Users\TH ACER\source\visual studio - C#\bingoquiz\demo\obj\Debug\demo.csprojAssemblyReference.cache
+C:\Users\TH ACER\source\visual studio - C#\bingoquiz\demo\obj\Debug\demo.Menu.resources
+C:\Users\TH ACER\source\visual studio - C#\bingoquiz\demo\obj\Debug\demo.NewGame.resources
+C:\Users\TH ACER\source\visual studio - C#\bingoquiz\demo\obj\Debug\demo.Properties.Resources.resources
+C:\Users\TH ACER\source\visual studio - C#\bingoquiz\demo\obj\Debug\demo.Start.resources
+C:\Users\TH ACER\source\visual studio - C#\bingoquiz\demo\obj\Debug\demo.csproj.GenerateResource.cache
+C:\Users\TH ACER\source\visual studio - C#\bingoquiz\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\TH ACER\source\visual studio - C#\bingoquiz\demo\obj\Debug\demo.exe
+C:\Users\TH ACER\source\visual studio - C#\bingoquiz\demo\obj\Debug\demo.pdb
+C:\Users\TH ACER\source\visual studio - C#\bingoquiz\demo\obj\Debug\demo.Guide.resources

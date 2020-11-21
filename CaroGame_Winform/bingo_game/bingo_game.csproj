@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1595EE05-6232-4E55-AD8C-E2ABEC7B84C2}</ProjectGuid>
+    <ProjectGuid>{A9FA83CC-E7CF-4660-813D-B4A3CCDE9F44}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>demo</RootNamespace>
-    <AssemblyName>demo</AssemblyName>
+    <RootNamespace>bingo_game</RootNamespace>
+    <AssemblyName>bingo_game</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,40 +46,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Guide.cs">
+    <Compile Include="ChessBoardManager.cs" />
+    <Compile Include="Constain.cs" />
+    <Compile Include="caroGame.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Guide.Designer.cs">
-      <DependentUpon>Guide.cs</DependentUpon>
+    <Compile Include="caroGame.Designer.cs">
+      <DependentUpon>caroGame.cs</DependentUpon>
     </Compile>
-    <Compile Include="Menu.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Menu.Designer.cs">
-      <DependentUpon>Menu.cs</DependentUpon>
-    </Compile>
-    <Compile Include="NewGame.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="NewGame.Designer.cs">
-      <DependentUpon>NewGame.cs</DependentUpon>
-    </Compile>
+    <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Start.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Start.Designer.cs">
-      <DependentUpon>Start.cs</DependentUpon>
-    </Compile>
-    <EmbeddedResource Include="Guide.resx">
-      <DependentUpon>Guide.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Menu.resx">
-      <DependentUpon>Menu.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="NewGame.resx">
-      <DependentUpon>NewGame.cs</DependentUpon>
+    <EmbeddedResource Include="caroGame.resx">
+      <DependentUpon>caroGame.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -90,9 +69,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Start.resx">
-      <DependentUpon>Start.cs</DependentUpon>
-    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -105,6 +81,27 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\background board.png" />
+    <Content Include="Resources\background menu.png" />
+    <Content Include="Resources\background.png" />
+    <Content Include="Resources\button color.png" />
+    <Content Include="Resources\caro board.png" />
+    <Content Include="Resources\caro board1.png" />
+    <Content Include="Resources\caro board2.png" />
+    <Content Include="Resources\caro game logo.png" />
+    <Content Include="Resources\CARO LOGO.png" />
+    <Content Include="Resources\CARO LOGO1.png" />
+    <Content Include="Resources\chessdrawing.png" />
+    <Content Include="Resources\clock.png" />
+    <Content Include="Resources\X_symbol_RGB.png" />
+    <Content Include="Resources\O_symbol_RGB.png" />
+    <Content Include="Resources\FG_circlesymbol_RGB.png" />
+    <Content Include="Resources\main background.png" />
+    <Content Include="Resources\mark background.png" />
+    <Content Include="Resources\O logo.png" />
+    <Content Include="Resources\X logo.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
